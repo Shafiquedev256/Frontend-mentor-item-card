@@ -24,7 +24,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [click here](https://your-solution-url.com)
-- Live Site URL: [click here](https://your-live-site-url.com)
+- Live Site URL: [click here](https://frontend-mentor-item-card.vercel.app/)
 
 
 ### Built with
