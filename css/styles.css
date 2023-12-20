@@ -19,13 +19,14 @@ body {
   justify-content: space-evenly;
   width: 350px;
   border-radius: 5px;
+  margin: 2rem;
   background-color: white;
 }
 @media (min-width: 700px) {
   .product_card {
     flex-flow: row;
     width: 800px;
-    margin-inline: 5rem;
+    margin: 5rem;
   }
   .product_card h1 {
     font-size: 3.5em;
@@ -98,4 +99,10 @@ body {
 }
 .product_card .priceSection .oldPrice {
   text-decoration: line-through;
+}
+.product_card .cartegory {
+  font-weight: bold;
+  padding-top: 5px;
+  font-family: Monospace;
+  color: gray;
 }
